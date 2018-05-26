@@ -150,6 +150,12 @@ set softtabstop=2                      " Fix it to 2
 set ttimeout
 set ttimeoutlen=100
 set timeoutlen=3000
+"set <Up>=OA
+"imap OA <ESC>ka
+"imap OB <ESC>ja
+"imap OC <ESC>la
+"imap OD <ESC>ha
+"imap [3~ <ESC>lxi
 
 "###############################################################################
 " folding styles

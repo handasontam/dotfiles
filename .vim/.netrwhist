@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/handason/Dropbox/machine_learning/fyp/Deep-Learning-Reinforcement-Learning/trading_simulation_env'
+let g:netrw_dirhist_2='/home/handason/anaconda3/envs/tensorflow_2.7/lib/python2.7/site-packages/Box2D'
+let g:netrw_dirhist_3='/home/handason/Dropbox/machine_learning/fyp/Deep-Reinforcement-Learning/Game_theory_env/tournament/.git'
+let g:netrw_dirhist_4='/home/handason/.vim'
+let g:netrw_dirhist_5='/usr/local/bin'
